@@ -1,0 +1,1 @@
+# shellScript.sh dosyasi hazilanmistir
